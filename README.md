@@ -89,8 +89,8 @@
 
 | 产品 | 定位 | 在线体验 |
 | --- | --- | --- |
-| 追光超级爆款 | 视频 / 图片 / 数字人一站式生成 | [打开](https://zgz.wazgz.com/) |
-| 追光 IP 视频智能体 | IP 内容运营、剪辑混剪、多平台发布 | [打开](https://ip.wazgz.com/) |
+| [追光超级爆款](https://github.com/zhuiguangAI/zhuiguang-chaoji-baokuan) | 视频 / 图片 / 数字人一站式生成 | [打开](https://zgz.wazgz.com/) |
+| [追光 IP 视频智能体](https://github.com/zhuiguangAI/zhuiguang-ip-shipin-zhinengti) | IP 内容运营、剪辑混剪、多平台发布 | [打开](https://ip.wazgz.com/) |
 | 追光作图智能体 | 电商与营销场景的智能出图 | [打开](https://zt.wazgz.com/) |
 
 ---
